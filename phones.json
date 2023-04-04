@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Xiaomi 13 Pro",
+    "description": "Xiaomi 13 Pro with a professional system camera leads the master's mobile photography. The AMOLED display is protected from super-smooth scrolling and clarity in daily viewing. The advanced Snapdragon8 Gen2 processor delivers unparalleled performance.",
+    "price": "$1000",
+    "stocked": "there is",
+    "imageCover": "https://files.foxtrot.com.ua/PhotoNew/6862517_2_638126618313863572.jpg"
+  },
+  {
+    "title": "Redmi Note 12 Pro",
+    "description": "Xiaomi Redmi Note 12 Pro also has a reliable triple camera. The system is based on the MediaTek Dimensity 1080 (6nm) processor, which has an AnTuTu (v9) score of 538000. The smartphone has an audio jack and a 5000mAh battery with 67W fast charging.",
+    "price": "$300",
+    "stocked": "expected",
+    "imageCover": "https://cdek.shopping/storage/products/xiaomi-redmi-note-12-pro-plus-discovery-edition/pro-discovery-1.jpg"
+  },
+  {
+    "title": "POCO Х5 5G",
+    "description": "POCO X5 sets new standards in performance and comfort. 5G communication provides unparalleled speed of data exchange. The 6.67-inch FHD+ AMOLED display with blue light protection and 120Hz refresh rate provides a great viewing experience. The 48 MP triple camera captures clear and detailed photos under any conditions.",
+    "price": "$380",
+    "stocked": "there is",
+    "imageCover": "https://mobilike.net.ua/image/cache/catalog/easyphoto/2764/poco-x5-5g-6-128gb-blue-ua-1-860x860.jpg"
+  }
+]
